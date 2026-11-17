@@ -71,7 +71,7 @@ nav a.active {
     overflow: hidden;
     background:
         linear-gradient(90deg, #0a0710 5%, rgba(10,7,16,0.85) 42%, rgba(10,7,16,0.15)),
-        url("vetura-hero.jpg") center 55% / cover no-repeat;
+        url("img/vetura-hero.jpg") center 55% / cover no-repeat;
 }
 
 .hero-content {
